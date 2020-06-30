@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://san55:vdpHftFIqt0Y5946@urlcluster-mx83d.mongodb.net/urlcomplete?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
